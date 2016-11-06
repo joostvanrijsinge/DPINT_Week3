@@ -1,10 +1,10 @@
 ﻿namespace DPINT_Week3
 {
-    class Controller
+    public class Controller
     {
-        public Controller(ConcreteSubject SubjectModel, IObserver window)
+        public Controller(ConcreteSubject subjectModel, IObserver window)
         {
-            SubjectModel.NewWindow(window);
+            subjectModel.AddNewObserver(window);
         }
     }
 }

@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace DPINT_Week3
 {
-    abstract class ConcreteSubject
+    public abstract class ConcreteSubject
     {
-        public List<IObserver> windows;
+        protected List<IObserver> _observers;
 
         public ConcreteSubject()
         {
-            windows = new List<IObserver>();
+            _observers = new List<IObserver>();
         }
 
-        public virtual void NewWindow(IObserver toAdd) { }
+        public void AddNewObserver(IObserver newObserver)
+        {
+            _observers.Add(newObserver);
+        }
 
-        public virtual void notify() { }
+        public abstract void Notify();
     }
 }

@@ -3,30 +3,29 @@
 
 namespace DPINT_Week3
 {
-    class SubjectModel: ConcreteSubject
+    public class SubjectModel: ConcreteSubject
     {
-        
-        public int counter = 0;
+        private int _counter;
 
-        public override void NewWindow(IObserver Add) {
-            windows.Add(Add);
+        public SubjectModel()
+        {
+            _counter = 0;
         }
 
-        internal void addCounter()
+        public void IncreaseCounter()
         {
-            counter++;
-            if (counter == 5)
+            _counter++;
+            if (_counter == 5)
             {
-                counter = 0;
+                _counter = 0;
             }
         }
 
-        public override void notify()
+        public override void Notify()
         {
-
-            foreach (IObserver c in windows)
+            foreach (IObserver observer in _observers)
             {
-                c.update(counter);
+                observer.Update(_counter);
             }
         }
     }

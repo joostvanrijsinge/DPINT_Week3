@@ -4,25 +4,26 @@ namespace DPINT_Week3
 {
     public partial class MainWindow : Window
     {
-        SubjectModel subMod = new SubjectModel();
+        private SubjectModel _subMod;
+
         public MainWindow()
         {
             InitializeComponent();
-            
+            _subMod = new SubjectModel();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            AddWindow addWindow = new AddWindow();
+            ColorWindow newWindow = new ColorWindow();
 
-            Controller controller = new Controller(subMod, addWindow);
-            addWindow.Show();
+            Controller controller = new Controller(_subMod, newWindow);
+            newWindow.Show();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            subMod.addCounter();
-            subMod.notify();
+            _subMod.IncreaseCounter();
+            _subMod.Notify();
         }
 
     }

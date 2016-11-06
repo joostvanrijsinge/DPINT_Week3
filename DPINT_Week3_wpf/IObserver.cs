@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace DPINT_Week3
 {
-    interface IObserver
+    public interface IObserver
     {
-        void update(int Counter);
+        void Update(int counter);
     }
 }

@@ -1,4 +1,4 @@
-﻿<Window x:Class="DPINT_Week3.AddWindow"
+﻿<Window x:Class="DPINT_Week3.ColorWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="NewWindow" Height="300" Width="300">
