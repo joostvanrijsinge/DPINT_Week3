@@ -1,0 +1,36 @@
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRIWK3.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\MainWindow.baml
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\AddWindow.baml
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\AddWindow.g.cs
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf_MarkupCompile.cache
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.g.resources
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.Properties.Resources.resources
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRIWK3.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.exe
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.exe.config
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.exe
+C:\Users\Gebruiker\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.exe.config
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.exe
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.exe
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRIWK3.csprojResolveAssemblyReference.cache
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\MainWindow.baml
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\AddWindow.baml
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\AddWindow.g.cs
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\App.g.cs
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf_MarkupCompile.cache
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.g.resources
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.Properties.Resources.resources
+C:\Users\Rik Scholten\Dropbox\Periode 6\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRIWK3.csproj.GenerateResource.Cache
+C:\Users\skeed\Google Drive\Avans\Blok 6\Databases 3\DPI\DPI Week 3\DPRI_wk3_wpf\bin\Debug\DPRI_wk3_wpf.exe.config
+C:\Users\skeed\Google Drive\Avans\Blok 6\Databases 3\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.exe
+C:\Users\skeed\Google Drive\Avans\Blok 6\Databases 3\DPI\DPI Week 3\DPRI_wk3_wpf\obj\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\bin\Debug\DPRI_wk3_wpf.exe.config
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.exe
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.pdb

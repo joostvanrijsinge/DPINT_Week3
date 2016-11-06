@@ -1,0 +1,15 @@
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\bin\Debug\DPRI_wk3_wpf.exe.config
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\bin\Debug\DPRI_wk3_wpf.exe
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\bin\Debug\DPRI_wk3_wpf.pdb
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPINT_Week3.csprojResolveAssemblyReference.cache
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\MainWindow.baml
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\AddWindow.baml
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\AddWindow.g.cs
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\App.g.cs
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf_MarkupCompile.cache
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.g.resources
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.Properties.Resources.resources
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPINT_Week3.csproj.GenerateResource.Cache
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.exe
+C:\Users\Joost\Documents\Visual Studio 2013\Projects\DPINT_Week3\DPINT_Week3_wpf\obj\Debug\DPRI_wk3_wpf.pdb
